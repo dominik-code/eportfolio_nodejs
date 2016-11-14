@@ -22,6 +22,7 @@ It will be used after the presentation to show some demos.
 * npm:
  * npm -v
  * npm init
+ * npm install
  * npm install _package_ --save
  
 ## Useful urls ##
