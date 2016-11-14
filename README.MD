@@ -17,12 +17,12 @@ It will be used after the presentation to show some demos.
 
 * node:
  * node -v
- * node <file>
+ * node _file_
 
 * npm:
  * npm -v
  * npm init
- * npm install <package> --save
+ * npm install _package_ --save
  
 ## Useful urls ##
 
