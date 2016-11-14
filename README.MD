@@ -1,3 +1,7 @@
+# ePortfolio: node.js #
+
+## Installation ##
+
 This repository is for my ePortfolio about node.js
 
 Please download and install node.js and npm from:
@@ -8,3 +12,20 @@ Now you should see the version of nodejs if the installation was successful.
 
 Please clone or download the zip of this repository.
 It will be used after the presentation to show some demos.
+
+## Useful commands ##
+
+* node:
+ * node -v
+ * node <file>
+
+* npm:
+ * npm -v
+ * npm init
+ * npm install <package> --save
+ 
+## Useful urls ##
+
+* https://nodejs.org/de/docs/
+* https://www.tutorialspoint.com/nodejs/
+* http://lmgtfy.com/?q=node.js
